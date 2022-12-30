@@ -18,7 +18,7 @@ function App() {
       id: 'e3',
       title: 'Car Insurance',
       amount: 294.67,
-      date: new Date(2022, 1, 25),
+      date: new Date(2022, 2, 25),
     },
     {
       id: 'e4',
